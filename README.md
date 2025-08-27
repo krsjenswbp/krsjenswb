@@ -22,4 +22,4 @@ export default function RootLayout({
   );
 }
 vercel deploy
-Interactive 3D Infographic
+Interactive 3D IÌnographic
